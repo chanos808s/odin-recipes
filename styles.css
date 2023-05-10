@@ -1,0 +1,25 @@
+div {
+    background-color: red;
+    color: white;
+    font-weight: 32px;
+  
+    
+}
+p {
+    color:rgb(186, 6, 186);
+    background-color:rgb(144, 144, 252);
+}
+
+img {
+    height: auto;
+    width: 450px;
+     
+}
+h1 {
+    color:rgb(242, 160, 37);
+    font-style: italic; 
+}
+ul {
+    color: rgb(255, 221, 51);  
+    
+}
